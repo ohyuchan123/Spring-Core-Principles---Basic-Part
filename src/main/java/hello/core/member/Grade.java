@@ -2,5 +2,5 @@ package hello.core.member;
 
 public enum Grade {
     BASIC,
-    VIP
+    VIP    //회원은 일반과 VIP 두가지 등급이 있다
 }

@@ -1,4 +1,4 @@
-package hello.core;
+package hello.core.Member;
 
 import hello.core.member.Grade;
 import hello.core.member.Member;
@@ -7,6 +7,7 @@ import hello.core.member.MemberServiceImpl;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
 
+//회원 가입 테스트
 public class MemberServiceTest {
     @Test
     void join(){
